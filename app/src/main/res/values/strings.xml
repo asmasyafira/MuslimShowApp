@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MuslimShowApp</string>
+    <string name="ketSatu">Pahalanya akan berbeda ketika kita bersedekah dikala sempit, daripada dikala lapang.
+    Dan kita tak perlu menunggu kaya hanya untuk bersedekah.</string>
+    <string name="ketDua">Sedikit demi sedikit, tidak akan lama lagi. Hanya tinggal menunggu dosa yang sudah besar itu
+    menimpa diri kita.</string>
+    <string name="ketTiga">Jangan hanya memandang apa yang dimiliki orang lain, karena bisa jadi apa yang kita miliki
+    itu lebih baik dari mereka</string>
+    <string name="ketEmpat">Penggosip hanya akan berbicara ketika ada yang mendengarkan, dan cara untuk menjauhinya
+    hanya dengan tidak mendengarkan apa yang ia bawakan</string>
+    <string name="ketLima">Ingat selalu kepada akhirat dan jangan merasa aman kepada apa yang akan kita dapat diakhirat</string>
+    <string name="ketEnam">Tidak baik jika kita selalu menghakimi orang lain tanpa tahu apa yang ia rasakan sebenarnya,
+    karena bisa jadi kerja keras yang ia perbuat lebih besar daripada kita</string>
+    <string name="ketTujuh">Seharusnya kita mengetahui tempat dimana kita harus bersikap yang baik dan lemah lembut </string>
+    <string name="ketDelapan">Jangan pernah menyerah dalam mengajak orang dalam kebaikan, karena kita tidak akan tahu
+    kapan Allah akan memberinya hidayah</string>
+    <string name="ketSembilan">Isilah sepertiga malam awal kalian dengan beristirahat, dan isilah sepertiga malam
+    terakhir kalian dengan beribadah kepada Allah</string>
+    <string name="ketSepuluh"> Berlomba-lomba lah dalam mengajak kepada kebaikan </string>
+</resources>
